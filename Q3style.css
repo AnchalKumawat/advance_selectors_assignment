@@ -1,0 +1,11 @@
+h1::after{
+    content: "Assignment Question no 3";
+}
+body::after{
+    content: "Question done successfully";
+    font-size: 20px;
+    color: blue;
+}
+body::before{
+    content: "Some random text";
+}
